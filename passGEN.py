@@ -9,7 +9,7 @@ var = IntVar()
 var1 = IntVar()
 
 root.title("Random Password Generator")
-root.iconbitmap("D:/CODE/PasGEN/logo.ico")
+# root.iconbitmap("D:/CODE/PasGEN/logo.ico")    # logo
 # Entry and Label
 random_password = Label(root, text="Password")
 random_password.grid(row=0)
