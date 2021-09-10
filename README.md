@@ -1,2 +1,2 @@
 # Random-Password-Generator
-# password generator with tkinter
+password generator with tkinter
